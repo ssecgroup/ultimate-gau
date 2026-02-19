@@ -1,0 +1,21 @@
+# Ultimate GAU - Core Dependencies
+# GitHub: https://github.com/ssecgroup/ultimate-gau
+# Author: @ssecgroup
+
+# Core requirements
+requests>=2.25.0
+urllib3>=1.26.0
+
+# Optional - Progress bars (recommended for interactive use)
+tqdm>=4.62.0
+
+# Optional - URL validation
+validators>=0.18.0
+
+# Optional - For better performance
+certifi>=2020.12.5
+chardet>=4.0.0
+idna>=2.10
+
+# Development dependencies (for contributors)
+# pip install -r requirements-dev.txt
